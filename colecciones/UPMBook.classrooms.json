@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "6672f8dc4c7d235bcb2c9b58"
+  },
+  "classroomName": "1001",
+  "studentCapacity": 40,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672f8e54c7d235bcb2c9b66"
+  },
+  "classroomName": "1002",
+  "studentCapacity": 40,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672f8ed4c7d235bcb2c9b6e"
+  },
+  "classroomName": "1003",
+  "studentCapacity": 40,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672f8f64c7d235bcb2c9b76"
+  },
+  "classroomName": "1004",
+  "studentCapacity": 40,
+  "__v": 0
+}]

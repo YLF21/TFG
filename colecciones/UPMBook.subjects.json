@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "6672f9564c7d235bcb2c9b81"
+  },
+  "subjectName": "Fundamentos de Programacion",
+  "acronym": "FP",
+  "capacity": 40,
+  "professor": {
+    "$oid": "6672f6924c7d235bcb2c9b37"
+  },
+  "description": "Fundamentos de Programacion",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672f9854c7d235bcb2c9b9e"
+  },
+  "subjectName": "Inteligencia Artificial",
+  "acronym": "IA",
+  "capacity": 40,
+  "professor": {
+    "$oid": "6672f6924c7d235bcb2c9b37"
+  },
+  "description": "Inteligencia Artificial",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672f9954c7d235bcb2c9ba6"
+  },
+  "subjectName": "Redes de Computadores",
+  "acronym": "RC",
+  "capacity": 40,
+  "professor": {
+    "$oid": "6672f6924c7d235bcb2c9b37"
+  },
+  "description": "Redes de Computadores",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672f9ca4c7d235bcb2c9bc3"
+  },
+  "subjectName": "Fundamentos de Seguridad",
+  "acronym": "FS",
+  "capacity": 40,
+  "professor": {
+    "$oid": "6672f6924c7d235bcb2c9b37"
+  },
+  "description": "Fundamentos de Seguridad",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672fb0b4c7d235bcb2c9e3f"
+  },
+  "subjectName": "Algebra",
+  "acronym": "A",
+  "capacity": 40,
+  "professor": {
+    "$oid": "6672f8634c7d235bcb2c9b43"
+  },
+  "description": "Algebra",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672fb2e4c7d235bcb2c9e47"
+  },
+  "subjectName": "Analisis Matematico",
+  "acronym": "AM",
+  "capacity": 40,
+  "professor": {
+    "$oid": "6672f8634c7d235bcb2c9b43"
+  },
+  "description": "Analisis Matematico",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672fb504c7d235bcb2c9e4f"
+  },
+  "subjectName": "Métodos Generativos",
+  "acronym": "MG",
+  "capacity": 40,
+  "professor": {
+    "$oid": "6672f8634c7d235bcb2c9b43"
+  },
+  "description": "Métodos Generativos",
+  "__v": 0
+}]

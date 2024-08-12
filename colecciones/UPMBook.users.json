@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6672f6924c7d235bcb2c9b37"
+  },
+  "username": "profe1",
+  "password": "$2b$10$n/BQWYWBKzOghQkad38HmOuBdC7/0qJbUYy67hQcfHcdm4XhwMe0m",
+  "rol": "professor",
+  "email": "profe1@upm.es",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672f8634c7d235bcb2c9b43"
+  },
+  "username": "profe2",
+  "password": "$2b$10$Q5W5mY2i4ljf8.94KbB6ZuGDXyUhge0Qh3QuLcjuZviHs6cXLn.ma",
+  "rol": "professor",
+  "email": "profe2@upm.es",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672f8914c7d235bcb2c9b47"
+  },
+  "username": "admin",
+  "password": "$2b$10$9CC6lfvh72eGbAa.2id3v.PcL0D7tbS2Vl8UQuc7pP/OLZb5oarSC",
+  "rol": "admin",
+  "email": "admin@upm.es",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672f8a84c7d235bcb2c9b4b"
+  },
+  "username": "estudiante1",
+  "password": "$2b$10$NPcuq9RxZOCwV1Jx6Rmp1.mgxRQp/gBMv1cgQLaNkb8mD3lAqguEm",
+  "rol": "student",
+  "email": "estudiante1@alumnos.upm.es",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672f8b94c7d235bcb2c9b4f"
+  },
+  "username": "estudiante2",
+  "password": "$2b$10$7.k6sG58s6608ju/kBAqkub5QcMfnlQKzAamTAqnaq2EQFsNNAHva",
+  "rol": "student",
+  "email": "estudiante2@alumnos.upm.es",
+  "__v": 0
+}]

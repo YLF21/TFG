@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "6672fa0b4c7d235bcb2c9be0"
+  },
+  "student": {
+    "$oid": "6672f8a84c7d235bcb2c9b4b"
+  },
+  "subject": {
+    "$oid": "6672f9564c7d235bcb2c9b81"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672fa104c7d235bcb2c9c13"
+  },
+  "student": {
+    "$oid": "6672f8a84c7d235bcb2c9b4b"
+  },
+  "subject": {
+    "$oid": "6672f9854c7d235bcb2c9b9e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672fa134c7d235bcb2c9c31"
+  },
+  "student": {
+    "$oid": "6672f8b94c7d235bcb2c9b4f"
+  },
+  "subject": {
+    "$oid": "6672f9854c7d235bcb2c9b9e"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672fa194c7d235bcb2c9c64"
+  },
+  "student": {
+    "$oid": "6672f8a84c7d235bcb2c9b4b"
+  },
+  "subject": {
+    "$oid": "6672f9954c7d235bcb2c9ba6"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672fa254c7d235bcb2c9c97"
+  },
+  "student": {
+    "$oid": "6672f8a84c7d235bcb2c9b4b"
+  },
+  "subject": {
+    "$oid": "6672f9ca4c7d235bcb2c9bc3"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672fa274c7d235bcb2c9cb5"
+  },
+  "student": {
+    "$oid": "6672f8b94c7d235bcb2c9b4f"
+  },
+  "subject": {
+    "$oid": "6672f9ca4c7d235bcb2c9bc3"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672fb5e4c7d235bcb2c9e6c"
+  },
+  "student": {
+    "$oid": "6672f8a84c7d235bcb2c9b4b"
+  },
+  "subject": {
+    "$oid": "6672fb0b4c7d235bcb2c9e3f"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672fb604c7d235bcb2c9e8a"
+  },
+  "student": {
+    "$oid": "6672f8b94c7d235bcb2c9b4f"
+  },
+  "subject": {
+    "$oid": "6672fb0b4c7d235bcb2c9e3f"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672fb834c7d235bcb2c9ef9"
+  },
+  "student": {
+    "$oid": "6672f8a84c7d235bcb2c9b4b"
+  },
+  "subject": {
+    "$oid": "6672fb2e4c7d235bcb2c9e47"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672fb884c7d235bcb2c9f1c"
+  },
+  "student": {
+    "$oid": "6672f8b94c7d235bcb2c9b4f"
+  },
+  "subject": {
+    "$oid": "6672fb2e4c7d235bcb2c9e47"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6672fbb54c7d235bcb2c9f8b"
+  },
+  "student": {
+    "$oid": "6672f8b94c7d235bcb2c9b4f"
+  },
+  "subject": {
+    "$oid": "6672fb504c7d235bcb2c9e4f"
+  },
+  "__v": 0
+}]
