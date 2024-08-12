@@ -7,7 +7,8 @@ export default class ClassroomTimetable extends Component {
 
   state = {
     timetableData: [],
-    loading: true
+    loading: true, 
+    classroomName: '',
   };
 
   async componentDidMount() {
@@ -19,7 +20,17 @@ export default class ClassroomTimetable extends Component {
           Authorization: `Bearer ${token}`
         }
       });
-      this.setState({ timetableData: response.data.data, loading: false }); 
+
+      if (response.data.data && response.data.data.length > 0) {
+        const classroomName = response.data.data[0].classroom.classroomName; 
+        this.setState({ 
+          timetableData: response.data.data, 
+          classroomName,  
+          loading: false 
+        });  
+      } else {
+          this.setState({ loading: false });
+        }
     } catch (error) {
       console.error('Error fetching classroom info:', error);
       this.setState({ loading: false }); 
@@ -43,6 +54,7 @@ export default class ClassroomTimetable extends Component {
     }
     return false; 
   }
+  
 
 
 
@@ -54,10 +66,8 @@ export default class ClassroomTimetable extends Component {
     const startTime = 9;
     const endTime = 21;
     const rows = 13; 
-    const { timetableData, loading } = this.state;
-    
-
-    
+    const { timetableData, loading, classroomName } = this.state;
+   
 
     if (loading) {
       return (
@@ -101,6 +111,9 @@ export default class ClassroomTimetable extends Component {
     if (timetableData) {
     return (
       <div>
+        <div className= 'Title'>
+          <h1>Horario del aula {classroomName}</h1>
+        </div>
         <div className="table-container">
           <table border="1">
             <tbody>
