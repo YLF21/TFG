@@ -1,0 +1,24 @@
+.notification-bar {
+    position: relative;
+    left: 0;
+    width: 100%;
+    z-index: 950;
+  }
+  
+  .notification {
+    border-radius: 0;
+    padding: 10px 15px;
+    font-size: 16px;
+  }
+
+  .error{
+    background-color: #f19696;
+    border: 1px solid #f1aaaa;
+  }
+
+  .success{
+    background-color: #dff0d8;
+    border: 1px solid #d6e9c6;
+  }
+  
+  

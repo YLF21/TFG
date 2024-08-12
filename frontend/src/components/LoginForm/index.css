@@ -1,0 +1,52 @@
+.data-form {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  
+  .container {
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  input {
+    margin: 10px 0;
+    padding: 8px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    width: 100%;
+  }
+
+  .invalid-feedback {
+    font-size: 0.7em; 
+    text-align: left;
+  }
+
+  
+  .link {
+    color: #007bff;
+    cursor: pointer;
+    transition: color 0.3s ease; 
+  }
+  
+  .link:hover {
+    color: #0056b3; 
+  }

@@ -1,0 +1,35 @@
+.home-nav {
+  text-decoration: none;
+  color: #fff;
+  padding: 10px;
+  margin: 0 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+  font-weight: bold; 
+}
+
+.home-nav:hover {
+  background-color: #555;
+}
+
+.sign-nav,
+.login-nav {
+  text-decoration: none;
+  color: #fff;
+  padding: 10px;
+  margin: 0 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.sign-nav:hover,
+.login-nav:hover {
+  background-color: #555;
+}
+
+.navbar-logo {
+  max-width: 50px; 
+  height: auto; 
+}
+
+

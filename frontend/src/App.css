@@ -1,0 +1,31 @@
+.background-image {
+    background-image: url('./img/1024.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    min-height: 100vh; 
+}
+
+.welcome {
+    font-size: 24px;
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease; 
+  }
+  
+  .welcome:hover {
+    transform: scale(1.1); 
+  }
+  
+  .display-1{
+    color: #ffffff;
+    text-decoration: solid;
+  }
+
+  .header-wrapper {
+    position: sticky;
+    top: 0;
+    z-index: 999;
+  }

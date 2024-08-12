@@ -1,0 +1,40 @@
+
+.list-container {
+  margin-top: 20px;
+  max-height: 300px; 
+  overflow-y: auto; 
+}
+
+.d-flex {
+  display: flex !important;
+}
+
+.justify-content-between {
+  justify-content: space-between !important;
+}
+
+.align-items-center {
+  align-items: center !important;
+}
+
+.student-info {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.delete-icon {
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.trash-icon {
+  color: red;
+  transition: color 0.3s ease;
+}
+
+.trash-icon:hover {
+  color: darkred;
+}
+  

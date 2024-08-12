@@ -1,0 +1,39 @@
+
+.list-container {
+  margin-top: 20px;
+  max-height: 300px; 
+  overflow-y: auto; 
+}
+
+.d-flex {
+  display: flex !important;
+}
+
+.justify-content-between {
+  justify-content: space-between !important;
+}
+
+.align-items-center {
+  align-items: center !important;
+}
+
+.student-info {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.selected-student {
+  background-color: #e0f7fa;
+  border: 1px solid #8fa0cf;
+  transition: background-color 0.3s ease, border 0.3s ease;
+}
+
+.selected-student:hover {
+  background-color: #b2ebf2;
+}
+
+.list-group-item-action {
+  cursor: pointer;
+}
