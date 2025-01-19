@@ -47,7 +47,7 @@ export default function CreateSubject() {
     let acronym = '';
 
     word.forEach(word => {
-      if (!(word.toLowerCase() === 'de')){
+      if (!(word.toLowerCase() === 'de') && !(word.toLowerCase() === 'y') && !(word.toLowerCase() === 'del') && !(word.toLowerCase() === 'for') && !(word.toLowerCase() === 'and')){
         acronym += word.charAt(0).toUpperCase();
       }
     });

@@ -28,7 +28,7 @@ export default function CreateClass(){
     const errors = {}
 
     if (classroomName.trim() === '') {
-      errors.classroomName = 'Classname is required'
+      errors.classroomName = 'Classroom name is required'
     }
 
     if (studentCapacity === '0' || studentCapacity.trim() === '') {
@@ -90,13 +90,13 @@ export default function CreateClass(){
        {notification.show && <Notification message={notification.message} color={notification.color} autoDismiss={notification.autoDismiss} router={notification.router}/>}
       <form className='data-form' onSubmit={onSubmit}>
         <div className='container'>
-          <h1 className="text-center mb-4">Create class</h1>
+          <h1 className="text-center mb-4">Create classroom</h1>
           <div className="mb-3">
-            <input type="text" className={classnames("form-control", {'is-invalid':errors.classroomName})} placeholder="Class name" value={classroomName} onChange={changeHandle('classroomName')}/>
+            <input type="text" className={classnames("form-control", {'is-invalid':errors.classroomName})} placeholder="Classroom name" value={classroomName} onChange={changeHandle('classroomName')}/>
             {errors.classroomName && <div className='invalid-feedback'>{errors.classroomName}</div>}
           </div>
           <div className="mb-3">
-            <input type="number"  min="0" className={classnames("form-control",{'is-invalid':errors.studentCapacity})} placeholder="Student Capacity" value={studentCapacity} onChange={changeHandle('studentCapacity')} />
+            <input type="number"  min="0" className={classnames("form-control",{'is-invalid':errors.studentCapacity})} placeholder="Classroom Capacity" value={studentCapacity} onChange={changeHandle('studentCapacity')} />
             {errors.studentCapacity && <div className='invalid-feedback'>{errors.studentCapacity}</div>}
           </div>
           <div className="row">

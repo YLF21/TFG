@@ -12,7 +12,7 @@ export default class Classroom extends Component {
         <ClassroomList/>
         <div className="fixed-bottom text-center mb-3">
           {rol === 'professor' && <NavLink className="btn btn-primary button_nav" to="/classroom/createClass">
-            Create Class
+            Create Classroom
           </NavLink>}
         </div>
       </div>

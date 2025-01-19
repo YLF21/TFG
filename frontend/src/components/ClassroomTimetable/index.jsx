@@ -96,10 +96,10 @@ export default class ClassroomTimetable extends Component {
       row.push(<td key={`hour-${i}`}>{hours[i]} - {hours[i+1]} </td>);
       
       for (let j = 0; j < dayOfWeek.length; j++) {
-        const isOccupied = this.isHourOccupied(j + 1, startTime + i + 1); 
+        const isOccupied = this.isHourOccupied(j + 1 , startTime + i); 
         row.push(
           <td key={`${dayOfWeek[j]}-${i}`} style={{ backgroundColor: isOccupied ? 'yellow' : 'white' }}>
-            {isOccupied ? this.isHourOccupied(j + 1, startTime + i + 1) : ''}
+            {isOccupied ? this.isHourOccupied(j + 1, startTime + i) : ''}
           </td>
         );
       }
