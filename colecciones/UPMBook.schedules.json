@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "678d3c4f3a3b981f282fbe72"
+  },
+  "student": {
+    "$oid": "678cf433f112ef0451e5d540"
+  },
+  "startTime": {
+    "$date": "2025-01-21T11:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2025-01-21T13:00:00.000Z"
+  },
+  "subject": {
+    "$oid": "678d1f4f6d6c1c354586c6bf"
+  },
+  "classroom": {
+    "$oid": "66f05614f024a5e88f6a2dcd"
+  },
+  "timetable": {
+    "$oid": "678d1fd86d6c1c354586c797"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678d3c933a3b981f282fbeae"
+  },
+  "student": {
+    "$oid": "678cf433f112ef0451e5d540"
+  },
+  "startTime": {
+    "$date": "2025-01-23T11:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2025-01-23T13:00:00.000Z"
+  },
+  "subject": {
+    "$oid": "678d1f4f6d6c1c354586c6bf"
+  },
+  "classroom": {
+    "$oid": "66f05614f024a5e88f6a2dcd"
+  },
+  "timetable": {
+    "$oid": "678d1fe36d6c1c354586c7b4"
+  },
+  "__v": 0
+}]

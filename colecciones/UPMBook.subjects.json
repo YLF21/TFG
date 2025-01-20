@@ -1,91 +1,52 @@
 [{
   "_id": {
-    "$oid": "6672f9564c7d235bcb2c9b81"
+    "$oid": "678d1f026d6c1c354586c6af"
   },
-  "subjectName": "Fundamentos de Programacion",
-  "acronym": "FP",
-  "capacity": 40,
+  "subjectName": "English for Professional and Academic Comunication",
+  "acronym": "EPAC",
+  "capacity": 10,
   "professor": {
-    "$oid": "6672f6924c7d235bcb2c9b37"
+    "$oid": "675eed202ebbfcb37a3a0ae5"
   },
-  "description": "Fundamentos de Programacion",
+  "description": "",
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "6672f9854c7d235bcb2c9b9e"
+    "$oid": "678d1f116d6c1c354586c6b7"
   },
-  "subjectName": "Inteligencia Artificial",
-  "acronym": "IA",
-  "capacity": 40,
+  "subjectName": "Calidad del Software",
+  "acronym": "CS",
+  "capacity": 10,
   "professor": {
-    "$oid": "6672f6924c7d235bcb2c9b37"
+    "$oid": "675eed202ebbfcb37a3a0ae5"
   },
-  "description": "Inteligencia Artificial",
+  "description": "",
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "6672f9954c7d235bcb2c9ba6"
+    "$oid": "678d1f4f6d6c1c354586c6bf"
   },
-  "subjectName": "Redes de Computadores",
-  "acronym": "RC",
-  "capacity": 40,
+  "subjectName": "Gestión de Proyectos y del Riesgo",
+  "acronym": "GPR",
+  "capacity": 10,
   "professor": {
-    "$oid": "6672f6924c7d235bcb2c9b37"
+    "$oid": "675eed202ebbfcb37a3a0ae5"
   },
-  "description": "Redes de Computadores",
+  "description": "\"Esto es la descripción de la asignatura de Gestión de Proyectos y del Riesgo\"\n",
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "6672f9ca4c7d235bcb2c9bc3"
+    "$oid": "678d1f616d6c1c354586c6c7"
   },
-  "subjectName": "Fundamentos de Seguridad",
-  "acronym": "FS",
-  "capacity": 40,
+  "subjectName": "Verificación y Validación",
+  "acronym": "VV",
+  "capacity": 10,
   "professor": {
-    "$oid": "6672f6924c7d235bcb2c9b37"
+    "$oid": "675eed202ebbfcb37a3a0ae5"
   },
-  "description": "Fundamentos de Seguridad",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "6672fb0b4c7d235bcb2c9e3f"
-  },
-  "subjectName": "Algebra",
-  "acronym": "A",
-  "capacity": 40,
-  "professor": {
-    "$oid": "6672f8634c7d235bcb2c9b43"
-  },
-  "description": "Algebra",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "6672fb2e4c7d235bcb2c9e47"
-  },
-  "subjectName": "Analisis Matematico",
-  "acronym": "AM",
-  "capacity": 40,
-  "professor": {
-    "$oid": "6672f8634c7d235bcb2c9b43"
-  },
-  "description": "Analisis Matematico",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "6672fb504c7d235bcb2c9e4f"
-  },
-  "subjectName": "Métodos Generativos",
-  "acronym": "MG",
-  "capacity": 40,
-  "professor": {
-    "$oid": "6672f8634c7d235bcb2c9b43"
-  },
-  "description": "Métodos Generativos",
+  "description": "",
   "__v": 0
 }]

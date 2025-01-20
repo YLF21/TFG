@@ -1,50 +1,50 @@
 [{
   "_id": {
-    "$oid": "6672f6924c7d235bcb2c9b37"
+    "$oid": "675eed202ebbfcb37a3a0ae5"
   },
-  "username": "profe1",
-  "password": "$2b$10$n/BQWYWBKzOghQkad38HmOuBdC7/0qJbUYy67hQcfHcdm4XhwMe0m",
+  "username": "profesor",
+  "password": "$2b$10$6cH9Hdsi4JWo9IfA3pwFLedw17D4kBEtzvkT72rnAFdDm861TDBYy",
   "rol": "professor",
-  "email": "profe1@upm.es",
+  "email": "profesor@upm.es",
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "6672f8634c7d235bcb2c9b43"
+    "$oid": "678ab22ac3cca5f5c2fdeef3"
   },
-  "username": "profe2",
-  "password": "$2b$10$Q5W5mY2i4ljf8.94KbB6ZuGDXyUhge0Qh3QuLcjuZviHs6cXLn.ma",
-  "rol": "professor",
-  "email": "profe2@upm.es",
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "6672f8914c7d235bcb2c9b47"
-  },
-  "username": "admin",
-  "password": "$2b$10$9CC6lfvh72eGbAa.2id3v.PcL0D7tbS2Vl8UQuc7pP/OLZb5oarSC",
+  "username": "administrador",
+  "password": "$2b$10$kxfhma0LSqNvJILe2EHud.zRikQvOoF0igvvrcKijFT.AJLlMlY/W",
   "rol": "admin",
-  "email": "admin@upm.es",
+  "email": "administrador@upm.es",
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "6672f8a84c7d235bcb2c9b4b"
+    "$oid": "678cf433f112ef0451e5d540"
   },
-  "username": "estudiante1",
-  "password": "$2b$10$NPcuq9RxZOCwV1Jx6Rmp1.mgxRQp/gBMv1cgQLaNkb8mD3lAqguEm",
+  "username": "alumno1",
+  "password": "$2b$10$mw2JxUGJi3q4xxnNy2TcFeHhGNjB6V6e3/I00EBXbW7KzUaubYxgq",
   "rol": "student",
-  "email": "estudiante1@alumnos.upm.es",
+  "email": "alumno1@alumnos.upm.es",
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "6672f8b94c7d235bcb2c9b4f"
+    "$oid": "678d31bd3a3b981f282fbdfd"
   },
-  "username": "estudiante2",
-  "password": "$2b$10$7.k6sG58s6608ju/kBAqkub5QcMfnlQKzAamTAqnaq2EQFsNNAHva",
+  "username": "alumno2",
+  "password": "$2b$10$ukSu3ue.hRngSqgYGd1g/ui3LXggvry9eMKBM/JDYeyvdHGgG2ArS",
   "rol": "student",
-  "email": "estudiante2@alumnos.upm.es",
+  "email": "alumno2@alumnos.upm.es",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678d31d93a3b981f282fbe01"
+  },
+  "username": "alumno3",
+  "password": "$2b$10$p9YQubRC4FLQILi0.3Ot7.FvzVCPL3hpZKA89X7aQr1k5sm/fw6NK",
+  "rol": "student",
+  "email": "alumno3@alumnos.upm.es",
   "__v": 0
 }]

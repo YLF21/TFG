@@ -1,32 +1,24 @@
 [{
   "_id": {
-    "$oid": "6672f8dc4c7d235bcb2c9b58"
+    "$oid": "66f05614f024a5e88f6a2dcd"
   },
   "classroomName": "1001",
-  "studentCapacity": 40,
+  "studentCapacity": 20,
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "6672f8e54c7d235bcb2c9b66"
+    "$oid": "678d13eb4a152e6e8dc8de95"
   },
-  "classroomName": "1002",
-  "studentCapacity": 40,
+  "classroomName": "2001",
+  "studentCapacity": 50,
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "6672f8ed4c7d235bcb2c9b6e"
+    "$oid": "678d13f54a152e6e8dc8de9d"
   },
-  "classroomName": "1003",
-  "studentCapacity": 40,
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "6672f8f64c7d235bcb2c9b76"
-  },
-  "classroomName": "1004",
+  "classroomName": "3001",
   "studentCapacity": 40,
   "__v": 0
 }]

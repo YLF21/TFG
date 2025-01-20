@@ -1,141 +1,27 @@
 [{
   "_id": {
-    "$oid": "6672fa3f4c7d235bcb2c9ce7"
-  },
-  "dayOfWeek": 1,
-  "startTime": {
-    "$date": "2000-01-01T11:00:00.000Z"
-  },
-  "endTime": {
-    "$date": "2000-01-01T13:00:00.000Z"
-  },
-  "subject": {
-    "$oid": "6672f9564c7d235bcb2c9b81"
-  },
-  "classroom": {
-    "$oid": "6672f8dc4c7d235bcb2c9b58"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "6672fa514c7d235bcb2c9d05"
-  },
-  "dayOfWeek": 3,
-  "startTime": {
-    "$date": "2000-01-01T09:00:00.000Z"
-  },
-  "endTime": {
-    "$date": "2000-01-01T11:00:00.000Z"
-  },
-  "subject": {
-    "$oid": "6672f9564c7d235bcb2c9b81"
-  },
-  "classroom": {
-    "$oid": "6672f8dc4c7d235bcb2c9b58"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "6672fa654c7d235bcb2c9d39"
-  },
-  "dayOfWeek": 1,
-  "startTime": {
-    "$date": "2000-01-01T09:00:00.000Z"
-  },
-  "endTime": {
-    "$date": "2000-01-01T11:00:00.000Z"
-  },
-  "subject": {
-    "$oid": "6672f9854c7d235bcb2c9b9e"
-  },
-  "classroom": {
-    "$oid": "6672f8e54c7d235bcb2c9b66"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "6672fa714c7d235bcb2c9d57"
-  },
-  "dayOfWeek": 4,
-  "startTime": {
-    "$date": "2000-01-01T15:00:00.000Z"
-  },
-  "endTime": {
-    "$date": "2000-01-01T17:00:00.000Z"
-  },
-  "subject": {
-    "$oid": "6672f9854c7d235bcb2c9b9e"
-  },
-  "classroom": {
-    "$oid": "6672f8e54c7d235bcb2c9b66"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "6672fa8b4c7d235bcb2c9d8b"
-  },
-  "dayOfWeek": 3,
-  "startTime": {
-    "$date": "2000-01-01T17:00:00.000Z"
-  },
-  "endTime": {
-    "$date": "2000-01-01T19:00:00.000Z"
-  },
-  "subject": {
-    "$oid": "6672f9954c7d235bcb2c9ba6"
-  },
-  "classroom": {
-    "$oid": "6672f8ed4c7d235bcb2c9b6e"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "6672fa954c7d235bcb2c9da9"
-  },
-  "dayOfWeek": 5,
-  "startTime": {
-    "$date": "2000-01-01T09:00:00.000Z"
-  },
-  "endTime": {
-    "$date": "2000-01-01T11:00:00.000Z"
-  },
-  "subject": {
-    "$oid": "6672f9954c7d235bcb2c9ba6"
-  },
-  "classroom": {
-    "$oid": "6672f8ed4c7d235bcb2c9b6e"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "6672faa94c7d235bcb2c9ddd"
+    "$oid": "678d1f886d6c1c354586c6e2"
   },
   "dayOfWeek": 2,
   "startTime": {
-    "$date": "2000-01-01T13:00:00.000Z"
+    "$date": "2000-01-01T09:00:00.000Z"
   },
   "endTime": {
-    "$date": "2000-01-01T15:00:00.000Z"
+    "$date": "2000-01-01T11:00:00.000Z"
   },
   "subject": {
-    "$oid": "6672f9ca4c7d235bcb2c9bc3"
+    "$oid": "678d1f026d6c1c354586c6af"
   },
   "classroom": {
-    "$oid": "6672f8ed4c7d235bcb2c9b6e"
+    "$oid": "66f05614f024a5e88f6a2dcd"
   },
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "6672fab74c7d235bcb2c9dfb"
+    "$oid": "678d1f986d6c1c354586c6ff"
   },
-  "dayOfWeek": 5,
+  "dayOfWeek": 4,
   "startTime": {
     "$date": "2000-01-01T09:00:00.000Z"
   },
@@ -143,75 +29,94 @@
     "$date": "2000-01-01T11:00:00.000Z"
   },
   "subject": {
-    "$oid": "6672f9ca4c7d235bcb2c9bc3"
+    "$oid": "678d1f026d6c1c354586c6af"
   },
   "classroom": {
-    "$oid": "6672f8f64c7d235bcb2c9b76"
+    "$oid": "66f05614f024a5e88f6a2dcd"
   },
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "6672fb6e4c7d235bcb2c9ea6"
-  },
-  "dayOfWeek": 1,
-  "startTime": {
-    "$date": "2000-01-01T11:00:00.000Z"
-  },
-  "endTime": {
-    "$date": "2000-01-01T13:00:00.000Z"
-  },
-  "subject": {
-    "$oid": "6672fb0b4c7d235bcb2c9e3f"
-  },
-  "classroom": {
-    "$oid": "6672f8e54c7d235bcb2c9b66"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "6672fb7c4c7d235bcb2c9ec4"
+    "$oid": "678d1fb66d6c1c354586c748"
   },
   "dayOfWeek": 3,
   "startTime": {
-    "$date": "2000-01-01T19:00:00.000Z"
+    "$date": "2000-01-01T11:00:00.000Z"
   },
   "endTime": {
-    "$date": "2000-01-01T21:00:00.000Z"
+    "$date": "2000-01-01T13:00:00.000Z"
   },
   "subject": {
-    "$oid": "6672fb0b4c7d235bcb2c9e3f"
+    "$oid": "678d1f116d6c1c354586c6b7"
   },
   "classroom": {
-    "$oid": "6672f8f64c7d235bcb2c9b76"
+    "$oid": "66f05614f024a5e88f6a2dcd"
   },
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "6672fb994c7d235bcb2c9f38"
+    "$oid": "678d1fc56d6c1c354586c765"
+  },
+  "dayOfWeek": 5,
+  "startTime": {
+    "$date": "2000-01-01T11:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2000-01-01T13:00:00.000Z"
+  },
+  "subject": {
+    "$oid": "678d1f116d6c1c354586c6b7"
+  },
+  "classroom": {
+    "$oid": "66f05614f024a5e88f6a2dcd"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678d1fd86d6c1c354586c797"
   },
   "dayOfWeek": 2,
   "startTime": {
-    "$date": "2000-01-01T15:00:00.000Z"
+    "$date": "2000-01-01T11:00:00.000Z"
   },
   "endTime": {
-    "$date": "2000-01-01T17:00:00.000Z"
+    "$date": "2000-01-01T13:00:00.000Z"
   },
   "subject": {
-    "$oid": "6672fb2e4c7d235bcb2c9e47"
+    "$oid": "678d1f4f6d6c1c354586c6bf"
   },
   "classroom": {
-    "$oid": "6672f8f64c7d235bcb2c9b76"
+    "$oid": "66f05614f024a5e88f6a2dcd"
   },
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "6672fba84c7d235bcb2c9f56"
+    "$oid": "678d1fe36d6c1c354586c7b4"
   },
   "dayOfWeek": 4,
+  "startTime": {
+    "$date": "2000-01-01T11:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2000-01-01T13:00:00.000Z"
+  },
+  "subject": {
+    "$oid": "678d1f4f6d6c1c354586c6bf"
+  },
+  "classroom": {
+    "$oid": "66f05614f024a5e88f6a2dcd"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678d1ff76d6c1c354586c7fd"
+  },
+  "dayOfWeek": 3,
   "startTime": {
     "$date": "2000-01-01T09:00:00.000Z"
   },
@@ -219,48 +124,29 @@
     "$date": "2000-01-01T11:00:00.000Z"
   },
   "subject": {
-    "$oid": "6672fb2e4c7d235bcb2c9e47"
+    "$oid": "678d1f616d6c1c354586c6c7"
   },
   "classroom": {
-    "$oid": "6672f8e54c7d235bcb2c9b66"
+    "$oid": "66f05614f024a5e88f6a2dcd"
   },
   "__v": 0
 },
 {
   "_id": {
-    "$oid": "6672fbd44c7d235bcb2c9fa7"
-  },
-  "dayOfWeek": 4,
-  "startTime": {
-    "$date": "2000-01-01T15:00:00.000Z"
-  },
-  "endTime": {
-    "$date": "2000-01-01T17:00:00.000Z"
-  },
-  "subject": {
-    "$oid": "6672fb504c7d235bcb2c9e4f"
-  },
-  "classroom": {
-    "$oid": "6672f8dc4c7d235bcb2c9b58"
-  },
-  "__v": 0
-},
-{
-  "_id": {
-    "$oid": "6672fbdf4c7d235bcb2c9fc5"
+    "$oid": "678d20016d6c1c354586c81a"
   },
   "dayOfWeek": 5,
   "startTime": {
-    "$date": "2000-01-01T15:00:00.000Z"
+    "$date": "2000-01-01T09:00:00.000Z"
   },
   "endTime": {
-    "$date": "2000-01-01T17:00:00.000Z"
+    "$date": "2000-01-01T11:00:00.000Z"
   },
   "subject": {
-    "$oid": "6672fb504c7d235bcb2c9e4f"
+    "$oid": "678d1f616d6c1c354586c6c7"
   },
   "classroom": {
-    "$oid": "6672f8dc4c7d235bcb2c9b58"
+    "$oid": "66f05614f024a5e88f6a2dcd"
   },
   "__v": 0
 }]
